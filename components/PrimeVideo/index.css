@@ -1,0 +1,10 @@
+/* Write your CSS here */
+.bg-cont {
+  background-color: black;
+  background-size: cover;
+  height: 100vh;
+  padding: 20px;
+}
+.imgstyle {
+  width: 100%;
+}
